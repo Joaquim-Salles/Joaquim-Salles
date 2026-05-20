@@ -16,7 +16,7 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
+<img width="100%" height="4" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
 
 <br/>
 
@@ -36,7 +36,7 @@ O ofício é o oposto disso. Eu não documento trabalho manual. Eu mato ele.
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
+<img width="100%" height="4" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
 
 <br/>
 
@@ -77,7 +77,7 @@ O projeto termina quando o cliente para de **gerenciar** e passa a **comandar**.
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
+<img width="100%" height="4" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
 
 <br/>
 
@@ -103,7 +103,7 @@ MCP é a peça que muda o jogo. Em vez de cada ferramenta viver isolada (Airtabl
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
+<img width="100%" height="4" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
 
 <br/>
 
@@ -135,7 +135,7 @@ MCP é a peça que muda o jogo. Em vez de cada ferramenta viver isolada (Airtabl
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
+<img width="100%" height="4" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
 
 <br/>
 
@@ -159,7 +159,7 @@ MCP é a peça que muda o jogo. Em vez de cada ferramenta viver isolada (Airtabl
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
+<img width="100%" height="4" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />
 
 <br/>
 
