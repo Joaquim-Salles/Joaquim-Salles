@@ -63,15 +63,11 @@ O projeto termina quando o cliente para de **gerenciar** e passa a **comandar**.
 
 <br/>
 
-| `120+` | `3` |
-|:<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />:|:<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />:|
-| horas/mês recuperadas | sistemas em produção |
+<code>120+</code><br/><sub>horas/mês recuperadas</sub>
 
-<br/>
+<br/><br/>
 
-| `0` |
-|:<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/divider.svg" />:|
-| planilhas deixadas de pé |
+<code>3</code>&nbsp;&nbsp;&nbsp;<code>0</code><br/><sub>sistemas em produção&nbsp;&nbsp;&nbsp;planilhas de pé</sub>
 
 <br/>
 
