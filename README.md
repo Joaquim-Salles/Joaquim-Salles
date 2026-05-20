@@ -1,15 +1,16 @@
-# Joaquim Salles
-
-**System architect** · construo sistemas end-to-end que eliminam trabalho manual.  
-Camaçari, Bahia &nbsp;·&nbsp; 16 anos &nbsp;·&nbsp; das 16 às 22 da noite, shipping daily.
+<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/hero.svg" alt="Joaquim Salles" />
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5500&pause=1400&color=DDD8CC&center=true&vCenter=true&width=920&height=70&lines=Toda+hora+que+algu%C3%A9m+gasta+copiando+dado;de+um+lugar+pro+outro+%C3%A9+uma+hora;que+a+empresa+t%C3%A1+pagando+duas+vezes." />
+<sub>` SYSTEM ARCHITECT `&nbsp;&nbsp;`◆`&nbsp;&nbsp;` AI DEVELOPER `&nbsp;&nbsp;`◆`&nbsp;&nbsp;` AUTOMATION ENGINEER `</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5500&pause=1800&color=C4532A&center=true&vCenter=true&width=920&height=50&lines=Eu+cobro+uma+vez+e+devolvo+o+tempo+pra+sempre." />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5500&pause=1400&color=DDD8CC&center=true&vCenter=true&width=920&height=80&lines=Toda+hora+que+algu%C3%A9m+gasta+copiando+dado;de+um+lugar+pro+outro+%C3%A9+uma+hora;que+a+empresa+t%C3%A1+pagando+duas+vezes." />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=5500&pause=1800&color=C4532A&center=true&vCenter=true&width=920&height=55&lines=Eu+cobro+uma+vez+e+devolvo+o+tempo+pra+sempre." />
 
 </div>
 
@@ -17,13 +18,27 @@ Camaçari, Bahia &nbsp;·&nbsp; 16 anos &nbsp;·&nbsp; das 16 às 22 da noite, s
 
 ---
 
+<br/>
+
 ## &nbsp;`§ 01 · PRINCÍPIO`
 
 > *Não existe "tarefa repetitiva". Existe sistema que ainda não foi escrito.*
 >
 > *Se um humano tá fazendo de novo amanhã, o sistema tá errado hoje.*
+>
+> *Software bom é invisível. Você só percebe quando para de existir aquela planilha que ninguém queria atualizar.*
+
+<br/>
+
+Toda operação tem uma planilha que ninguém quer atualizar. Toda equipe tem uma rotina que alguém copia, cola, formata, manda no WhatsApp, perde, refaz. Toda hora ali é uma hora paga duas vezes — primeiro pra fazer, depois pra refazer quando der erro.
+
+O ofício é o oposto disso. Eu não documento trabalho manual. Eu mato ele.
+
+<br/>
 
 ---
+
+<br/>
 
 ## &nbsp;`§ 02 · OFÍCIO`
 
@@ -33,10 +48,13 @@ Camaçari, Bahia &nbsp;·&nbsp; 16 anos &nbsp;·&nbsp; das 16 às 22 da noite, s
 
 <br/>
 
-Toda operação tem uma planilha que ninguém quer atualizar.  
-Eu construo o sistema que tira ela do meio.
+Trabalho **end-to-end**, do schema do banco ao último pixel da UI.
 
-Trabalho **end-to-end**, do schema do banco ao último pixel da UI. Integro o que precisa conversar com **MCP servers**, penso o que precisa de cérebro com **Claude Code** e **Gemini**, fecho com infra que não cai.
+Penso o que precisa de cérebro com **Claude Code** e **Gemini**. Conecto o que precisa conversar com **MCP servers**. Fecho com infra que não cai, em **Vercel** e **Cloudflare**.
+
+Stack que respeita o usuário final.  
+Arquitetura que ninguém precisa explicar duas vezes.  
+Código que vai pra produção, não pra portfólio.
 
 O projeto termina quando o cliente para de **gerenciar** e passa a **comandar**.
 
@@ -48,6 +66,18 @@ O projeto termina quando o cliente para de **gerenciar** e passa a **comandar**.
 </td>
 </tr>
 </table>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;`§ 03 · INTELIGÊNCIA`
+
+LLM não substitui engenharia. Acelera ela. O lugar de Claude Code e Gemini no meu fluxo é onde o cérebro precisa pensar em três coisas ao mesmo tempo, e eu só consigo pensar em duas. Onde a documentação tá em 4 abas e eu precisava da resposta ontem. Onde um agente especializado vai mais fundo do que eu sozinho com um Stack Overflow aberto.
+
+MCP é a peça que muda o jogo. Em vez de cada ferramenta viver isolada — Airtable aqui, WhatsApp ali, Supabase de outro lado — MCP servers fazem elas conversarem dentro do mesmo agente. Construí o `mcp-zap` justamente por isso: trazer o WhatsApp pra dentro do Claude Code sem precisar sair pro browser.
 
 <br/>
 
@@ -67,62 +97,7 @@ O projeto termina quando o cliente para de **gerenciar** e passa a **comandar**.
 
 ---
 
-## &nbsp;`§ 03 · OBRA`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### `VAV CENTRAL`
-
-**ONG Viva a Vida**
-
-Operava com planilhas soltas, WhatsApp pra tudo, dados fragmentados.
-
-Sistema unificado: administração, coordenação, comunicação, pedagogia. Chat interno, Meet embutido, calendário sync.
-
-`+120h/mês recuperadas`  
-`Status: OPERACIONAL`
-
-<sub>`Next.js · Supabase · Tailwind`</sub>
-
-</td>
-<td width="33%" valign="top">
-
-#### `CGR1 PLANNER`
-
-**Organizador semanal**
-
-Planejamento espalhado em 5 apps que não conversavam entre si.
-
-Feed diário unificado com gamificação, XP por tarefa, dashboard de produtividade, rotinas recorrentes, Google Agenda sync.
-
-`30min → 5min por semana`  
-`Status: MVP ATIVO`
-
-<sub>`Next.js · Supabase · Google API`</sub>
-
-</td>
-<td width="33%" valign="top">
-
-#### `TIIMETRACK`
-
-**Ponto digital**
-
-Empresa controlava presença e entregas por planilha manual, sem visibilidade.
-
-Ponto digital, painel em tempo real, alertas de atraso, relatórios de performance.
-
-`3 equipes em produção`  
-`Status: EM PRODUÇÃO`
-
-<sub>`React · Firebase · Node`</sub>
-
-</td>
-</tr>
-</table>
-
----
+<br/>
 
 ## &nbsp;`§ 04 · FERRAMENTAL`
 
@@ -130,28 +105,52 @@ Ponto digital, painel em tempo real, alertas de atraso, relatórios de performan
 
 <table>
 <tr>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/typescript/3DA898" height="40"/><br/><sub>`TypeScript`</sub></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/react/3DA898" height="40"/><br/><sub>`React`</sub></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/nextdotjs/DDD8CC" height="40"/><br/><sub>`Next.js`</sub></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/nodedotjs/3DA898" height="40"/><br/><sub>`Node.js`</sub></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/python/3DA898" height="40"/><br/><sub>`Python`</sub></td>
-<td align="center" width="120"><img src="https://cdn.simpleicons.org/tailwindcss/3DA898" height="40"/><br/><sub>`Tailwind`</sub></td>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/typescript/3DA898" height="42"/><br/><br/><sub>`TypeScript`</sub></td>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/react/3DA898" height="42"/><br/><br/><sub>`React`</sub></td>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/nextdotjs/DDD8CC" height="42"/><br/><br/><sub>`Next.js`</sub></td>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/nodedotjs/3DA898" height="42"/><br/><br/><sub>`Node.js`</sub></td>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/python/3DA898" height="42"/><br/><br/><sub>`Python`</sub></td>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/tailwindcss/3DA898" height="42"/><br/><br/><sub>`Tailwind`</sub></td>
 </tr>
+<tr><td colspan="6">&nbsp;</td></tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/supabase/C4532A" height="40"/><br/><sub>`Supabase`</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/firebase/C4532A" height="40"/><br/><sub>`Firebase`</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/postgresql/3DA898" height="40"/><br/><sub>`Postgres`</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/vercel/DDD8CC" height="40"/><br/><sub>`Vercel`</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/cloudflare/C4532A" height="40"/><br/><sub>`Cloudflare`</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/github/DDD8CC" height="40"/><br/><sub>`GitHub`</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/supabase/C4532A" height="42"/><br/><br/><sub>`Supabase`</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/firebase/C4532A" height="42"/><br/><br/><sub>`Firebase`</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/postgresql/3DA898" height="42"/><br/><br/><sub>`Postgres`</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/vercel/DDD8CC" height="42"/><br/><br/><sub>`Vercel`</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/cloudflare/C4532A" height="42"/><br/><br/><sub>`Cloudflare`</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/figma/DDD8CC" height="42"/><br/><br/><sub>`Figma`</sub></td>
 </tr>
 </table>
 
 </div>
 
+<br/>
+
 ---
 
-## &nbsp;`§ 05 · EM CURSO`
+<br/>
+
+## &nbsp;`§ 05 · DISCIPLINA`
+
+```
+05:20  ── acorda
+07:00  ── escola, 2º ano do ensino médio
+12:45  ── volta, almoça, treina
+16:00  ── código. é aqui que tudo é construído.
+22:00  ── encerra. come, recupera.
+23:00  ── dorme.
+```
+
+O tempo é o único recurso que não escala. Se tudo que eu construo serve pra economizar tempo dos outros, faz sentido eu cuidar do meu primeiro. A rotina não é flex, é arquitetura. Bloco fixo de 6 horas de código por dia, todo dia, há mais de um ano. É assim que se entrega projeto em produção sem deixar escola pra trás.
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;`§ 06 · EM CURSO`
 
 <div align="center">
 
@@ -163,10 +162,10 @@ Ponto digital, painel em tempo real, alertas de atraso, relatórios de performan
 
 </div>
 
----
+<br/><br/>
 
 <div align="center">
 
-<sub>`a máquina não dorme. eu sim, às vezes.`</sub>
+<sub>` a máquina não dorme. eu sim, às vezes. `</sub>
 
 </div>

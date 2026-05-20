@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 520" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050D0B"/>
+      <stop offset="55%" stop-color="#091612"/>
+      <stop offset="100%" stop-color="#0F2420"/>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1D5C54"/>
+      <stop offset="40%" stop-color="#3DA898"/>
+      <stop offset="85%" stop-color="#C4532A"/>
+    </linearGradient>
+
+    <radialGradient id="petroleoGlow" cx="15%" cy="55%" r="45%">
+      <stop offset="0%" stop-color="#1D5C54" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#1D5C54" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="ferrugemGlow" cx="85%" cy="45%" r="40%">
+      <stop offset="0%" stop-color="#C4532A" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#C4532A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="1280" height="520" fill="url(#bgGrad)"/>
+  <rect width="1280" height="520" fill="url(#petroleoGlow)"/>
+  <rect width="1280" height="520" fill="url(#ferrugemGlow)"/>
+
+  <!-- TOP META -->
+  <text x="80" y="68" font-family="'SF Mono', 'Menlo', 'Monaco', 'Courier New', monospace" font-size="11" letter-spacing="0.35em" fill="#C4532A" font-weight="600">
+    SYSTEM ARCHITECT
+  </text>
+
+  <line x1="245" y1="64" x2="1200" y2="64" stroke="#1D5C54" stroke-width="0.6" opacity="0.45"/>
+
+  <text x="1200" y="68" font-family="'SF Mono', 'Menlo', 'Monaco', 'Courier New', monospace" font-size="11" letter-spacing="0.35em" fill="#A09A90" font-weight="500" text-anchor="end">
+    2026 / CAMA&#x00C7;ARI BR
+  </text>
+
+  <!-- NAME LINE 1 — JOAQUIM (cream) -->
+  <text x="76" y="270" font-family="'Times New Roman', 'Georgia', 'Hoefler Text', serif" font-size="200" font-weight="800" fill="#DDD8CC" letter-spacing="-0.055em">
+    JOAQUIM
+  </text>
+
+  <!-- NAME LINE 2 — SALLES. (gradient) -->
+  <text x="76" y="430" font-family="'Times New Roman', 'Georgia', 'Hoefler Text', serif" font-size="200" font-weight="800" fill="url(#nameGrad)" letter-spacing="-0.055em">
+    SALLES.
+  </text>
+
+  <!-- ACCENT LINE -->
+  <line x1="80" y1="468" x2="450" y2="468" stroke="#C4532A" stroke-width="2"/>
+
+  <!-- BOTTOM META -->
+  <text x="80" y="495" font-family="'SF Mono', 'Menlo', 'Monaco', 'Courier New', monospace" font-size="13" letter-spacing="0.22em" fill="#DDD8CC" font-weight="500">
+    CONSTRUO O QUE NINGU&#x00C9;M QUER FAZER NA M&#x00C3;O.
+  </text>
+
+  <text x="1200" y="495" font-family="'SF Mono', 'Menlo', 'Monaco', 'Courier New', monospace" font-size="13" letter-spacing="0.22em" fill="#C4532A" font-weight="600" text-anchor="end">
+    [ 16 ANOS &#x00B7; AI BUILDER ]
+  </text>
+</svg>
