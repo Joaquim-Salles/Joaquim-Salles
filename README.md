@@ -1,5 +1,5 @@
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050D0B,30:0F2420,70:1D5C54,100:C4532A&height=340&section=header&text=JOAQUIM%20SALLES&fontSize=88&fontColor=DDD8CC&animation=fadeIn&fontAlignY=42&desc=CONSTRUO%20O%20QUE%20NINGU%C3%89M%20QUER%20FAZER%20NA%20M%C3%83O&descAlignY=68&descSize=15&descColor=C4532A&fontFamily=monospace&stroke=3DA898&strokeWidth=1" />
+<!-- CUSTOM HERO SVG -->
+<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/hero.svg" alt="Joaquim Salles" />
 
 <!-- STATUS LINE -->
 <div align="center">
