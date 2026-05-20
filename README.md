@@ -131,26 +131,7 @@ MCP é a peça que muda o jogo. Em vez de cada ferramenta viver isolada — Airt
 
 <br/>
 
-## &nbsp;`§ 05 · DISCIPLINA`
-
-```
-05:20  ── acorda
-07:00  ── escola, 2º ano do ensino médio
-12:45  ── volta, almoça, treina
-16:00  ── código. é aqui que tudo é construído.
-22:00  ── encerra. come, recupera.
-23:00  ── dorme.
-```
-
-O tempo é o único recurso que não escala. Se tudo que eu construo serve pra economizar tempo dos outros, faz sentido eu cuidar do meu primeiro. A rotina não é flex, é arquitetura. Bloco fixo de 6 horas de código por dia, todo dia, há mais de um ano. É assim que se entrega projeto em produção sem deixar escola pra trás.
-
-<br/>
-
----
-
-<br/>
-
-## &nbsp;`§ 06 · EM CURSO`
+## &nbsp;`§ 05 · EM CURSO`
 
 <div align="center">
 
