@@ -93,10 +93,6 @@ Stack que respeita o usuário final. Arquitetura que ninguém precisa explicar d
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/metrics.svg" alt="metrics" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/output/github-contribution-grid-snake.svg" />
