@@ -103,12 +103,6 @@ Stack que respeita o usuário final. Arquitetura que ninguém precisa explicar d
   <img alt="snake animation" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/output/github-contribution-grid-snake-dark.svg" width="92%" />
 </picture>
 
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Joaquim-Salles&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&bg_color=050D0B&title_color=3DA898&icon_color=C4532A&text_color=DDD8CC&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquim-Salles&layout=compact&hide_border=true&hide_title=true&bg_color=050D0B&title_color=3DA898&text_color=DDD8CC&langs_count=6" />
-
 </div>
 
 <br/><br/>
