@@ -40,12 +40,12 @@
   </text>
 
   <!-- NAME LINE 1 — JOAQUIM (cream) -->
-  <text x="76" y="270" font-family="'Times New Roman', 'Georgia', 'Hoefler Text', serif" font-size="200" font-weight="800" fill="#DDD8CC" letter-spacing="-0.055em">
+  <text x="76" y="270" font-family="'Liberation Serif', Georgia, 'Times New Roman', serif" font-size="200" font-weight="800" fill="#DDD8CC" letter-spacing="-0.055em">
     JOAQUIM
   </text>
 
   <!-- NAME LINE 2 — SALLES. (gradient) -->
-  <text x="76" y="430" font-family="'Times New Roman', 'Georgia', 'Hoefler Text', serif" font-size="200" font-weight="800" fill="url(#nameGrad)" letter-spacing="-0.055em">
+  <text x="76" y="430" font-family="'Liberation Serif', Georgia, 'Times New Roman', serif" font-size="200" font-weight="800" fill="url(#nameGrad)" letter-spacing="-0.055em">
     SALLES.
   </text>
 
