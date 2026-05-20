@@ -93,7 +93,7 @@ Stack que respeita o usuário final. Arquitetura que ninguém precisa explicar d
 
 <div align="center">
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joaquim-Salles&bg_color=050D0B&color=DDD8CC&line=C4532A&point=3DA898&area_color=1D5C54&area=true&hide_border=true&hide_title=true&radius=10&height=300" />
+<img width="100%" src="https://raw.githubusercontent.com/Joaquim-Salles/Joaquim-Salles/main/metrics.svg" alt="metrics" />
 
 <br/><br/>
 
