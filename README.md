@@ -30,7 +30,7 @@
 
 <br/>
 
-Toda operação tem uma planilha que ninguém quer atualizar. Toda equipe tem uma rotina que alguém copia, cola, formata, manda no WhatsApp, perde, refaz. Toda hora ali é uma hora paga duas vezes — primeiro pra fazer, depois pra refazer quando der erro.
+Toda operação tem uma planilha que ninguém quer atualizar. Toda equipe tem uma rotina que alguém copia, cola, formata, manda no WhatsApp, perde, refaz. Toda hora ali é uma hora paga duas vezes: uma pra fazer, outra pra refazer quando der erro.
 
 O ofício é o oposto disso. Eu não documento trabalho manual. Eu mato ele.
 
@@ -59,9 +59,21 @@ Código que vai pra produção, não pra portfólio.
 O projeto termina quando o cliente para de **gerenciar** e passa a **comandar**.
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="42%" valign="middle" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding" />
+<br/>
+
+| `120+` | `3` |
+|:---:|:---:|
+| horas/mês recuperadas | sistemas em produção |
+
+<br/>
+
+| `0` |
+|:---:|
+| planilhas deixadas de pé |
+
+<br/>
 
 </td>
 </tr>
@@ -75,9 +87,9 @@ O projeto termina quando o cliente para de **gerenciar** e passa a **comandar**.
 
 ## &nbsp;`§ 03 · INTELIGÊNCIA`
 
-LLM não substitui engenharia. Acelera ela. O lugar de Claude Code e Gemini no meu fluxo é onde o cérebro precisa pensar em três coisas ao mesmo tempo, e eu só consigo pensar em duas. Onde a documentação tá em 4 abas e eu precisava da resposta ontem. Onde um agente especializado vai mais fundo do que eu sozinho com um Stack Overflow aberto.
+LLM não substitui engenharia. Acelera ela. O lugar de Claude Code e Gemini no meu fluxo é onde o cérebro precisa pensar em três coisas ao mesmo tempo e eu só consigo pensar em duas. Onde a documentação tá em 4 abas e eu precisava da resposta ontem. Onde um agente especializado chega mais fundo do que eu sozinho.
 
-MCP é a peça que muda o jogo. Em vez de cada ferramenta viver isolada — Airtable aqui, WhatsApp ali, Supabase de outro lado — MCP servers fazem elas conversarem dentro do mesmo agente. Construí o `mcp-zap` justamente por isso: trazer o WhatsApp pra dentro do Claude Code sem precisar sair pro browser.
+MCP é a peça que muda o jogo. Em vez de cada ferramenta viver isolada (Airtable aqui, WhatsApp ali, Supabase de outro lado), MCP servers fazem elas conversarem dentro do mesmo agente. Construí o `mcp-zap` justamente por isso: trazer o WhatsApp pra dentro do Claude Code sem precisar sair pro browser.
 
 <br/>
 
@@ -131,7 +143,31 @@ MCP é a peça que muda o jogo. Em vez de cada ferramenta viver isolada — Airt
 
 <br/>
 
-## &nbsp;`§ 05 · EM CURSO`
+## &nbsp;`§ 05 · CANAL`
+
+<div align="center">
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/@eujoaquimsalles-C4532A?style=for-the-badge&logo=instagram&logoColor=DDD8CC)](https://instagram.com/eujoaquimsalles)
+&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/71_99659--1404-1D5C54?style=for-the-badge&logo=whatsapp&logoColor=DDD8CC)](https://wa.me/5571996591404)
+
+<br/>
+
+<sub>`se você chegou até aqui, provavelmente tem algo que precisa de sistema.`</sub>
+
+<br/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;`§ 06 · EM CURSO`
 
 <div align="center">
 
