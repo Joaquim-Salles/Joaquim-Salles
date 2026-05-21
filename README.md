@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5500&pause=1400&color=DDD8CC&center=true&vCenter=true&width=920&height=80&lines=Toda+hora+que+algu%C3%A9m+gasta+copiando+dado;de+um+lugar+pro+outro+%C3%A9+uma+hora;que+a+empresa+t%C3%A1+pagando+duas+vezes." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5500&pause=1400&color=DDD8CC&center=true&vCenter=true&width=920&height=80&lines=Se+ainda+existe+processo+manual%2C+existe+sistema+ausente.;Eu+construo+esse+sistema.+Do+banco+ao+%C3%BAltimo+pixel." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=5500&pause=1800&color=C4532A&center=true&vCenter=true&width=920&height=55&lines=Eu+cobro+uma+vez+e+devolvo+o+tempo+pra+sempre." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=5500&pause=1800&color=C4532A&center=true&vCenter=true&width=920&height=55&lines=Engenharia+end-to-end.+Claude+Code+como+ambiente+principal." />
 
 </div>
 
@@ -26,11 +26,11 @@
 >
 > *Se um humano tá fazendo de novo amanhã, o sistema tá errado hoje.*
 >
-> *Software bom é invisível. Você só percebe quando para de existir aquela planilha que ningúem queria atualizar.*
+> *Software bom é invisível. Você só percebe quando para de existir aquela planilha que ninguém queria atualizar.*
 
 <br/>
 
-Toda operação tem uma planilha que ningúem quer atualizar. Toda equipe tem uma rotina que alguém copia, cola, formata, manda no WhatsApp, perde, refaz. Toda hora ali é uma hora paga duas vezes: uma pra fazer, outra pra refazer quando der erro.
+Toda operação tem uma planilha que ninguém quer atualizar. Toda equipe tem uma rotina que alguém copia, cola, formata, manda no WhatsApp, perde, refaz. Toda hora ali é uma hora paga duas vezes: uma pra fazer, outra pra refazer quando der erro.
 
 O ofício é o oposto disso. Eu não documento trabalho manual. Eu mato ele.
 
@@ -50,10 +50,10 @@ O ofício é o oposto disso. Eu não documento trabalho manual. Eu mato ele.
 
 Trabalho **end-to-end**, do schema do banco ao último pixel da UI.
 
-Penso o que precisa de cérebro com **Claude Code** e **Gemini**. Conecto o que precisa conversar com **MCP servers**. Fecho com infra que não cai, em **Vercel** e **Cloudflare**.
+Penso o que precisa de cérebro com **Claude Code**. Conecto o que precisa conversar com **MCP servers**. Fecho com infra que não cai, em **Vercel** e **Cloudflare**.
 
 Stack que respeita o usuário final.  
-Arquitetura que ningúem precisa explicar duas vezes.  
+Arquitetura que ninguém precisa explicar duas vezes.  
 Código que vai pra produção, não pra portfólio.
 
 O projeto termina quando o cliente para de **gerenciar** e passa a **comandar**.
@@ -83,17 +83,15 @@ O projeto termina quando o cliente para de **gerenciar** e passa a **comandar**.
 
 ## &nbsp;`§ 03 · INTELIGÊNCIA`
 
-LLM não substitui engenharia. Acelera ela. O lugar de Claude Code e Gemini no meu fluxo é onde o cérebro precisa pensar em três coisas ao mesmo tempo e eu só consigo pensar em duas. Onde a documentação tá em 4 abas e eu precisava da resposta ontem. Onde um agente especializado chega mais fundo do que eu sozinho.
+LLM não substitui engenharia. Acelera ela. O lugar de **Claude Code** no meu fluxo é onde o cérebro precisa pensar em três coisas ao mesmo tempo e eu só consigo pensar em duas. Onde a documentação tá em 4 abas e eu precisava da resposta ontem. Onde um agente especializado chega mais fundo do que eu sozinho.
 
-MCP é a peça que muda o jogo. Em vez de cada ferramenta viver isolada (Airtable aqui, WhatsApp ali, Supabase de outro lado), MCP servers fazem elas conversarem dentro do mesmo agente. Construí o `mcp-zap` justamente por isso: trazer o WhatsApp pra dentro do Claude Code sem precisar sair pro browser.
+MCP é a peça que muda o jogo. Em vez de cada ferramenta viver isolada, MCP servers fazem elas conversarem dentro do mesmo agente — arquitetura unificada, zero custo de contexto entre sistemas.
 
 <br/>
 
 <div align="center">
 
 ![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-1D5C54?style=for-the-badge&logo=anthropic&logoColor=DDD8CC)
-&nbsp;
-![Gemini](https://img.shields.io/badge/GEMINI-C4532A?style=for-the-badge&logo=googlegemini&logoColor=DDD8CC)
 &nbsp;
 ![MCP](https://custom-icon-badges.demolab.com/badge/MCP_SERVERS-1D5C54.svg?style=for-the-badge&logo=cpu&logoColor=DDD8CC)
 &nbsp;
