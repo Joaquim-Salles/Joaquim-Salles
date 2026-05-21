@@ -30,7 +30,7 @@
 
 <br/>
 
-Toda operação tem uma planilha que ninguém quer atualizar. Toda equipe tem uma rotina que alguém copia, cola, formata, manda no WhatsApp, perde, refaz. Toda hora ali é uma hora paga duas vezes: uma pra fazer, outra pra refazer quando der erro.
+Toda operação tem uma planilha que ninguém quer atualizar. Toda equipe tem uma rotina que alguém copia, cola, formata, perde, refaz. Toda hora ali é uma hora paga duas vezes: uma pra fazer, outra pra refazer quando der erro.
 
 O ofício é o oposto disso. Eu não documento trabalho manual. Eu mato ele.
 
@@ -67,7 +67,7 @@ O projeto termina quando o cliente para de **gerenciar** e passa a **comandar**.
 
 <br/><br/>
 
-<code>3</code>&nbsp;&nbsp;&nbsp;<code>0</code><br/><sub>sistemas em produção&nbsp;&nbsp;&nbsp;planilhas de pé</sub>
+<code>0</code><br/><sub>planilhas ainda de pé</sub>
 
 <br/>
 
@@ -83,7 +83,7 @@ O projeto termina quando o cliente para de **gerenciar** e passa a **comandar**.
 
 ## &nbsp;`§ 03 · INTELIGÊNCIA`
 
-LLM não substitui engenharia. Acelera ela. O lugar de **Claude Code** no meu fluxo é onde o cérebro precisa pensar em três coisas ao mesmo tempo e eu só consigo pensar em duas. Onde a documentação tá em 4 abas e eu precisava da resposta ontem. Onde um agente especializado chega mais fundo do que eu sozinho.
+LLM não substitui engenharia. Acelera ela. **Claude Code** não é atalho — é o ambiente. Contexto completo do codebase, agentes que executam em paralelo, respostas que substituem horas de documentação. Engenharia real, acelerada.
 
 MCP é a peça que muda o jogo. Em vez de cada ferramenta viver isolada, MCP servers fazem elas conversarem dentro do mesmo agente — arquitetura unificada, zero custo de contexto entre sistemas.
 
