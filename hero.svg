@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 520" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
   <defs>
+    <style><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&display=swap');
+    ]]></style>
+
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#050D0B"/>
       <stop offset="55%" stop-color="#091612"/>
@@ -40,12 +44,12 @@
   </text>
 
   <!-- NAME LINE 1 — JOAQUIM (cream) -->
-  <text x="76" y="270" font-family="'Liberation Serif', Georgia, 'Times New Roman', serif" font-size="200" font-weight="800" fill="#DDD8CC" letter-spacing="-0.055em">
+  <text x="76" y="270" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="200" font-weight="900" fill="#DDD8CC" letter-spacing="-0.055em">
     JOAQUIM
   </text>
 
   <!-- NAME LINE 2 — SALLES. (gradient) -->
-  <text x="76" y="430" font-family="'Liberation Serif', Georgia, 'Times New Roman', serif" font-size="200" font-weight="800" fill="url(#nameGrad)" letter-spacing="-0.055em">
+  <text x="76" y="430" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="200" font-weight="900" fill="url(#nameGrad)" letter-spacing="-0.055em">
     SALLES.
   </text>
 
